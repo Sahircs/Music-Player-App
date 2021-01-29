@@ -19,3 +19,7 @@ Features Implemeted
 - React.js
 - HTML
 - CSS/SASS
+
+
+
+***Note: Majority of code held in App/src folder***
