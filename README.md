@@ -4,10 +4,12 @@
 
 # Description
 
-Web-Browser based Application that plays added Music. <br/> <br/>
+Browser-based Application that plays added Music. <br/> <br/>
 Implemented a Library to store the different Songs which the User can choose to play. <br/> <br/>
 Application is suited for Mobile-browsers aswell as Web.
 
+React Components stored in src/components/
+Styles for Components stored in src/styles/
 <br/>
 
 # Features Implemeted
