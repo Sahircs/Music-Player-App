@@ -19,6 +19,14 @@
 
 <br/>
 
+# Run App on your Computer
+- Provided you have React set-up and have installed Node.js
+- Download Code and open in a Code Editor (my preference - Visual Studio Code)
+- Open Terminal and run following command >>'npm start'<<
+- Enjoy and mess around with the Application!
+
+<br/>
+
 # Technologies Used
 - React.js
 - HTML
