@@ -11,9 +11,10 @@ Application is suited for Mobile-browsers aswell as Web.
 <br/>
 
 # Features Implemeted
+- Play/Pause
 - Fast-forward 
 - Rewind 
-- Previous/next Song
+- Previous/Next Song
 
 <br/>
 
@@ -24,4 +25,4 @@ Application is suited for Mobile-browsers aswell as Web.
 
 <br/>
 
-**Note: Majority of code held in App/src folder**
+**Note: Majority of code held in src/ folder**
