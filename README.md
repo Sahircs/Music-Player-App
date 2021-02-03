@@ -2,7 +2,7 @@
 
 <br/>
 
-# Description
+## Description
 - Browser-based Application that plays added Music. 
 - Implemented a Library to store the different Songs which the User can choose to play. 
 - Application is suited for Mobile-browsers aswell as Web.
@@ -11,7 +11,7 @@
 
 <br/>
 
-# Features Implemeted
+## Features Implemeted
 - Play/Pause
 - Fast-forward 
 - Rewind 
@@ -19,7 +19,7 @@
 
 <br/>
 
-# Run App on your Computer
+## Run App on your Computer
 - Provided you have React set-up and have installed Node.js
 - Download Code and open in a Code Editor (my preference - Visual Studio Code)
 - Open Terminal and run following command >>'npm start'<<
@@ -27,7 +27,7 @@
 
 <br/>
 
-# Technologies Used
+## Technologies Used
 - React.js
 - HTML
 - CSS/SASS
