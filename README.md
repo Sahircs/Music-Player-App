@@ -13,7 +13,7 @@ Application is suited for Mobile-browsers aswell as Web.
 - Previous/next Song
 
 
-# Technologies Used
+# Technologies Used
 - React.js
 - HTML
 - CSS/SASS
