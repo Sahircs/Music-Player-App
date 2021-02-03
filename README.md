@@ -1,6 +1,6 @@
 # React-Music-Player-App
 
-
+<br/>
 
 # Description
 
@@ -8,12 +8,14 @@ Web-Browser based Application that plays added Music. <br/> <br/>
 Implemented a Library to store the different Songs which the User can choose to play. <br/> <br/>
 Application is suited for Mobile-browsers aswell as Web.
 
+<br/>
 
 # Features Implemeted
 - Fast-forward 
 - Rewind 
 - Previous/next Song
 
+<br/>
 
 # Technologies Used
 - React.js
