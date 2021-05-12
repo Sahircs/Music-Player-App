@@ -19,11 +19,10 @@
 
 <br/>
 
-## Run App on your Computer
+## Setup and Run App 
 - Provided you have React set-up and have installed Node.js
-- Download Code and open in a Code Editor (my preference - Visual Studio Code)
-- Open Terminal and run following command to run Application in a Web-Browser 
-> **npm start**
+- clone repo using `git clone..` 
+- Open Terminal and run `nmp start`  
 - Enjoy and mess around with the Application!
 
 <br/>
@@ -32,7 +31,3 @@
 - React.js
 - HTML
 - CSS/SASS
-
-<br/>
-
-**Note: Majority of code held in src/ folder**
