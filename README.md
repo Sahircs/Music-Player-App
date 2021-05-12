@@ -21,7 +21,7 @@
 
 ## Setup and Run App 
 - Provided you have React set-up and have installed Node.js
-- clone repo using `git clone..` 
+- Clone repo using `git clone..` 
 - Open Terminal and run `nmp start`  
 - Enjoy and mess around with the Application!
 
